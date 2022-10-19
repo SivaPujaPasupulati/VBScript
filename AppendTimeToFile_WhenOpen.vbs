@@ -19,4 +19,4 @@ obj.Write Actual_Time
 Wend
 read_file.close
 
-'To append time into TimeStored.txt for every 5 mins until samp - Copy file gets closed..
+'To append time into OutputTimeStored.txt for every 5 mins until CloseFile_RunTime file gets closed..
